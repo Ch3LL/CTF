@@ -1,5 +1,6 @@
 ===RESOURCES FOR CTF===
 
+====RANDOM====
 https://ctftime.org
 https://www.reddit.com/r/securityctf
 https://github.com/ctfs/resources
@@ -7,4 +8,8 @@ https://ctfs.github.io/resources/
 https://github.com/apsdehal/awesome-ctf
 
 
-online games: https://captf.com/practice-ctf/
+====WHERE TO PLAY====
+https://captf.com/practice-ctf/
+
+===TOOLS===
+https://github.com/Gallopsled/pwntools
