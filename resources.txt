@@ -1,0 +1,10 @@
+===RESOURCES FOR CTF===
+
+https://ctftime.org
+https://www.reddit.com/r/securityctf
+https://github.com/ctfs/resources
+https://ctfs.github.io/resources/
+https://github.com/apsdehal/awesome-ctf
+
+
+online games: https://captf.com/practice-ctf/
