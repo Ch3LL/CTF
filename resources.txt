@@ -8,19 +8,27 @@ https://ctfs.github.io/resources/
 https://github.com/apsdehal/awesome-ctf
 https://www.usenix.org/conference/enigma2016/conference-program/presentation/genovese
 https://stripe.com/blog/ctf3-architecture
+https://trailofbits.github.io/ctf/
+https://exploit-exercises.com/
+http://opensecuritytraining.info/CTFForensics.html
+https://www.vulnhub.com/
 
 ====WHERE TO PLAY====
 https://captf.com/practice-ctf/
+https://lab.pentestit.ru/
 
 ==Current CTFs==
 http://labyrenth.com/
 https://microcorruption.com/login
 https://picoctf.com/
+https://ctf.isis.poly.edu/
+
 
 ==Scheduled CTFs==
 https://legitbs.net/
 http://www.ghostintheshellcode.com/
 https://ictf.cs.ucsb.edu/
+https://ctftime.org/event/list/upcoming
 
 == Platforms/Frameworks==
 https://github.com/picoCTF/picoCTF-Platform-2
@@ -29,6 +37,7 @@ https://github.com/apsdehal/awesome-ctf
 https://www.owasp.org/index.php/Category:OWASP_CTF_Project
 https://ctfd.io/
 https://n0where.net/ctf-framework-and-exploit-development-library-binjitsu/
+http://www.prosversusjoes.net/
 
 ===TOOLS===
 https://github.com/Gallopsled/pwntools
@@ -40,5 +49,9 @@ https://github.com/sixstars/CTF
 https://github.com/bl4de/ctf
 https://github.com/isislab/CTF-Challenges
 https://github.com/isislab/CTF-Solutions
+https://github.com/ctfs/
+https://github.com/iagox86
+http://captf.com/
+http://shell-storm.org/repo/CTF/
 
 
