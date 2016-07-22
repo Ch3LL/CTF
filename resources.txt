@@ -12,6 +12,7 @@ https://trailofbits.github.io/ctf/
 https://exploit-exercises.com/
 http://opensecuritytraining.info/CTFForensics.html
 https://www.vulnhub.com/
+http://www.amanhardikar.com/mindmaps/Practice.html
 
 ====WHERE TO PLAY====
 https://captf.com/practice-ctf/
@@ -41,6 +42,7 @@ http://www.prosversusjoes.net/
 
 ===TOOLS===
 https://github.com/Gallopsled/pwntools
+https://github.com/zardus/ctf-tools
 
 ==WriteUps==
 https://github.com/p4-team/ctf
