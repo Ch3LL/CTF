@@ -6,12 +6,39 @@ https://www.reddit.com/r/securityctf
 https://github.com/ctfs/resources
 https://ctfs.github.io/resources/
 https://github.com/apsdehal/awesome-ctf
+https://www.usenix.org/conference/enigma2016/conference-program/presentation/genovese
+https://stripe.com/blog/ctf3-architecture
 
 ====WHERE TO PLAY====
 https://captf.com/practice-ctf/
 
 ==Current CTFs==
 http://labyrenth.com/
+https://microcorruption.com/login
+https://picoctf.com/
+
+==Scheduled CTFs==
+https://legitbs.net/
+http://www.ghostintheshellcode.com/
+https://ictf.cs.ucsb.edu/
+
+== Platforms/Frameworks==
+https://github.com/picoCTF/picoCTF-Platform-2
+https://www.facebook.com/notes/protect-the-graph/facebook-capture-the-flag/1466163253623821/
+https://github.com/apsdehal/awesome-ctf
+https://www.owasp.org/index.php/Category:OWASP_CTF_Project
+https://ctfd.io/
+https://n0where.net/ctf-framework-and-exploit-development-library-binjitsu/
 
 ===TOOLS===
 https://github.com/Gallopsled/pwntools
+
+==WriteUps==
+https://github.com/p4-team/ctf
+https://github.com/raccoons-team/ctf
+https://github.com/sixstars/CTF
+https://github.com/bl4de/ctf
+https://github.com/isislab/CTF-Challenges
+https://github.com/isislab/CTF-Solutions
+
+
