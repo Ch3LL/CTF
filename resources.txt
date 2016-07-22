@@ -7,9 +7,11 @@ https://github.com/ctfs/resources
 https://ctfs.github.io/resources/
 https://github.com/apsdehal/awesome-ctf
 
-
 ====WHERE TO PLAY====
 https://captf.com/practice-ctf/
+
+==Current CTFs==
+http://labyrenth.com/
 
 ===TOOLS===
 https://github.com/Gallopsled/pwntools
